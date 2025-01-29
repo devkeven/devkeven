@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Keven from Portugal, I do content Development. I realy enjoy learning languages and frameworks.
+I'm Keven from Portugal, I do software Development. I realy enjoy learning new languages and frameworks.
 
 ![Keven GitHub stats](https://github-readme-stats.vercel.app/api?username=devkeven&hide=contribs,prs&show_icons=true)
 
